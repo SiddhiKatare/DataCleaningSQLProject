@@ -7,15 +7,21 @@ This project focuses on enhancing data quality by cleaning and standardizing mul
 **Key Technologies**
 
 •	Python: For scripting and automation of data cleaning tasks.
+
 •	Pandas: Utilized for data manipulation and preprocessing.
+
 •	SQL: Employed for database management and executing complex queries.
+
 •	Jupyter Notebook: For iterative development and visualization.
+
 •	Excel: For initial data review and simple transformations.
 
 **Project Highlights
 **
 •	Date Standardization: Unified date formats across the dataset to ensure consistency.
+
 •	Address Breakdown: Split address data into separate columns for address, city, and state, enabling more granular analysis.
+
 •	Duplicate Removal: Identified and removed duplicate records, leading to a more accurate and streamlined dataset.
 
 **Outcomes**
