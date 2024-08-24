@@ -16,8 +16,8 @@ This project focuses on enhancing data quality by cleaning and standardizing mul
 
 •	Excel: For initial data review and simple transformations.
 
-**Project Highlights
-**
+**Project Highlights**
+
 •	Date Standardization: Unified date formats across the dataset to ensure consistency.
 
 •	Address Breakdown: Split address data into separate columns for address, city, and state, enabling more granular analysis.
